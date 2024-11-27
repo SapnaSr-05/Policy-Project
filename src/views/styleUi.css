@@ -1,0 +1,81 @@
+/* card css */
+.private {
+    text-align: justify;
+    text-align: center;
+}
+
+.a1:hover {
+    color: white;
+    transform: translateY(-5px);
+    background-color: blue;
+}
+
+.re {
+    color: brown;
+}
+
+.b {
+    border-radius: 5px;
+    background-color: lightblue;
+}
+
+.c {
+    border-radius: 5px;
+    background-color: lightblue;
+}
+
+.button1 {
+    height: 35px;
+    width: 120px;
+    text-align: justify;
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding-top: 2px;
+}
+
+.btn1 {
+    height: 23px;
+    color: black;
+    padding-top: 3px;
+}
+
+.btn2 {
+    height: 20px;
+    color: black;
+    padding-top: 3px;
+}
+.error{
+    color:red;
+}
+.error-border{
+    border:1px solid red;
+}
+.t1{
+    text-align: center;
+}
+.t2{
+    text-align: end;
+    
+}
+.test{
+    text-align: center;
+}
+.no1{
+    text-align: center;
+}
+.opt1{
+    padding-left:4px;
+}
+.bt1{
+    /* background-color: brown; */
+    padding-bottom:3px;
+    padding-top:2px;
+    /* text-size-adjust:10px; */
+    padding-left: 4px;
+}
+.vibhu{
+    height:38px;
+    width:62px;
+    
+}
